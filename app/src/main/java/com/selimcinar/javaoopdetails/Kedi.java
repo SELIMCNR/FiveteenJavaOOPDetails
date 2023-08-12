@@ -13,7 +13,7 @@ public class Kedi implements Eğitim {
         this.gozRengi=gozRengi;
         this.tuyRengi=tuyRengi;
     }
-    //İstersen boş constructor da ekleyebilin.
+    //İstersen  boş constructor da ekleyebilin.
     public  Kedi(){
 
     }
